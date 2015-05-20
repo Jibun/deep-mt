@@ -1,0 +1,13 @@
+*.project
+*.classpath
+bin
+.settings
+ParsedLinesDeep
+ParsedLinesGold
+ParsedLinesGoldDeep
+testSet
+tmp
+assets
+devSet
+fichersDefinitius
+ParsedLines
